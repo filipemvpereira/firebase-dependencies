@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-agentifai-firebase-dependencies",
+  "version": "0.0.1",
+  "description": "Agentifai Assistant Dependencies",
+  "cordova": {
+    "id": "cordova-plugin-agentifai-firebase-dependencies",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Agentifai",
+  "license": "MIT"
+}
